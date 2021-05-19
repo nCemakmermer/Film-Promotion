@@ -28,6 +28,7 @@
 You can download here [PostgreSql](https://www.postgresql.org/download/).
 
 ## Step 2 : create movies adn users table.(sql codes available 'movies.sql and users.sql', paste Query tool and run)
+## [Movies and Users](https://github.com/nCemakmermer/Film-Promotion/tree/main/sql)
 ![sl](https://user-images.githubusercontent.com/77552209/118784553-caaff100-b898-11eb-905f-efeeb9dd0187.png)
 
 ## Step 3 : You have to import source files to İDE
