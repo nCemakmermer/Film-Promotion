@@ -35,7 +35,11 @@ You can download here [PostgreSql](https://www.postgresql.org/download/).
 # (Choose the Existing Maven Projects)
 ![import](https://user-images.githubusercontent.com/77552209/118783949-3b0a4280-b898-11eb-80f0-4ee82d42005b.png)
 
-## Step 4 : Run From MoviepromotionApplication.java 
+## Step 4 : Don't forget to update your password and username
+
+![app](https://user-images.githubusercontent.com/77552209/118788742-c08ff180-b89c-11eb-8e60-c57a3b717231.png)
+
+## Step 5 : Run From MoviepromotionApplication.java 
 ![run](https://user-images.githubusercontent.com/77552209/118784190-7a389380-b898-11eb-9875-4dad6c08fe08.png)
 
 
