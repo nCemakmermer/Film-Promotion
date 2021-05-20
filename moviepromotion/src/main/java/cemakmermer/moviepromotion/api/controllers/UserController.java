@@ -46,7 +46,7 @@ public class UserController {
 	public String saveMovie(@ModelAttribute("movie") Movie movie) {
 
 		movieService.saveMovie(movie);
-		return "redirect:Welcome";
+		return "redirect:/";
 	}
 
 	@GetMapping("/showFormForUpdate/{id}")
